@@ -1,0 +1,6 @@
+{
+  "name": "Visu AI",
+  "description": "Interactive STEM concept visualizer powered by Gemini AI with full-screen exploration, self-healing code error recovery, and scroll-based CPU performance optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
