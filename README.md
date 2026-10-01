@@ -96,7 +96,3 @@ them in a real project.
 -   Add user authentication and document-level permissions
 -   Create an evaluation dataset and quality dashboard
 -   Add streaming responses and chat history
-
-## License
-
-Choose and add a license before distributing or accepting contributions.
